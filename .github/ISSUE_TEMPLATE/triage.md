@@ -7,7 +7,7 @@ labels: triage
 
 ---
 
-**TODO**: Decide which of these are relevent for your repo, and whether more precise questions should be asked.
+**TODO**: Decide which of these are relevant for your repo, and whether more precise questions should be asked.
 
 ### Describe the issue
 

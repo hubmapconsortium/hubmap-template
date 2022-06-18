@@ -2,8 +2,8 @@
 Generic language-agnostic repo template with suggestions on best-practices:
 As HuBMAP matures we will benefit from using standard software-engineering practices.
 Because HuBMAP development is split across multiple repos, from multiple institutions,
-with a much of the work being done by grad students who will only be around for a short time,
-establishing shared practices and structures is essential if the code base is to be maintained and developed over time.
+with some of the work being done by trainees who might only be around for a short time,
+establishing shared practices and structures is particularly critical to maintain a high quality code base over time.
 
 Once you've made a copy of this template, make a feature branch, and work through the TODOs.
 If there's something you don't want to handle on the first pass, consider filing an issue for it. 
@@ -15,7 +15,7 @@ If there's something you don't want to handle on the first pass, consider filing
     - "Projects" off.
     - "Allow merge commits" and "Allow rebase merging" off; "Allow squash merging" on.
     - "Automatically delete head branches" on.
-  - [ ] **TODO**: Under "Collborators and teams" add users besides yourself.
+  - [ ] **TODO**: Under "Collaborators and teams" add users besides yourself.
   - [ ] **TODO**: Decide on a branch and PR strategy.
     - Feature branches from `main` work for many repos, but if a different strategy (like [gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)) would work better, explain the strategy in the README, and update the default branch.
     - Add branch protection rules. Suggested rules:
